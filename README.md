@@ -1,4 +1,4 @@
-# My Resume
+# Book Keeping database
 
 ## Table of Contents
 - [Installation](#installation)
